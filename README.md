@@ -24,7 +24,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 ### 🌟 Projects
 
 - **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
-  - Collaborated in a team for an AI-based Automatic Speech Recognition project.
+  - Collaborated in a team for an ML-based Automatic Speech Recognition project.
   - Achievements: 30% operational efficiency increase, 25% response latency reduction.
 
 - **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Nov 2023 - Present)
