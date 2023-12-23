@@ -36,7 +36,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 - **Certification:** Professional Certificate in Computer Science from Harvard University.
 - **Languages:** English (Fluent), French, Tamil (Native).
 - **Cultural Background:** Live in France, raised in India, born in Sri Lanka. French Citizen.
-- **Interests:** Competitive Programming, AI in Distributed Systems, Abstract Mathematics, Fitness.
+- **Interests:** [Competitive Programming](https://github.com/mathusanMe/LeetCode), AI in Distributed Systems, Abstract Mathematics, Fitness.
 
 ---
 
