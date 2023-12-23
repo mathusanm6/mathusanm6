@@ -6,7 +6,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 
 ## 📚 Education
 
-- **Dual BSc in Computer Science & Mathematics**
+- **Dual BSc in Computer Science & Mathematics** (Sep 2021 - Aug 2024)
   - **Institution:** Université Paris Cité
   - **Focus:** Blending in-depth education in Computer Science and Mathematics.
   - **Relevant Coursework:**
@@ -23,11 +23,11 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 
 ## 🌟 Projects
 
-- **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Sep 2021 - Aug 2024)
+- **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
   - Collaborated in a team for an AI-based Automatic Speech Recognition project.
   - Achievements: 30% operational efficiency increase, 25% response latency reduction.
 
-- **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Feb 2023 - April 2023)
+- **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Nov 2023 - Present)
   - Led a team to develop a Linux-optimized shell emulator using C.
   - Achievements: Streamlined code structure by 75%, improved workflow efficiency by 25%.
 
