@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm Mathusan
+## 👋 Hi there! I'm Mathusan
 
 I'm a passionate Computer Science & Mathematics student at Université Paris Cité, exploring the intersection of technology and math to solve complex problems and innovate in the tech space.
 
 ---
 
-## 📚 Education
+### 📚 Education
 
 - **Dual BSc in Computer Science & Mathematics** (Sep 2021 - Aug 2024)
   - **Institution:** Université Paris Cité
@@ -13,7 +13,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
     - Computer Science: Object-Oriented Programming, Low-level Programming, Functional Programming, Operating Systems, Algorithms & Data Structures, Graph Theory, Automata Theory.
     - Mathematics: Linear Algebra, Mathematical Analysis, Calculus, Probability, Topology, Optimisation.
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 
 - **Programming Languages:**
   - Advanced: Python, C, Java, Swift, OCaml, HTML, CSS
@@ -21,7 +21,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Learning: Rust, C++
 - **Libraries & Tools:** NeoVim, Visual Studio Code, Xcode, Warp, REST API, Linux, Databases, Figma, Django, React, Next.js, NumPy, SwiftUI, UIKit, Gradle, Dune, Git, Docker, GitHub CI/CD, AWS, ZSH.
 
-## 🌟 Projects
+### 🌟 Projects
 
 - **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
   - Collaborated in a team for an AI-based Automatic Speech Recognition project.
@@ -31,7 +31,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Led a team to develop a Linux-optimized shell emulator using C.
   - Achievements: Streamlined code structure by 75%, improved workflow efficiency by 25%.
 
-## 🌐 Additional Skills
+### 🌐 Additional Skills
 
 - **Certification:** Professional Certificate in Computer Science from Harvard University.
 - **Languages:** English (Fluent), French, Tamil (Native).
