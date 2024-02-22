@@ -31,6 +31,10 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Led a team to develop a Linux-optimized shell emulator using C.
   - Achievements: Streamlined code structure by 75%, improved workflow efficiency by 25%.
 
+- **[Movie Recommendation System](https://github.com/mathusanMe/Movie-Recommendation-System)** (Feb 2024)
+  - Developed a movie recommendation system utilizing the KNN classifier.
+  - Achievements: Delved extensively into Machine Learning with Python.
+
 ### 🌐 Additional Skills
 
 - **Certification:** Professional Certificate in Computer Science from Harvard University.
