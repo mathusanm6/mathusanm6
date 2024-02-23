@@ -11,7 +11,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - **Focus:** Blending in-depth education in Computer Science and Mathematics.
   - **Relevant Coursework:**
     - Computer Science: Object-Oriented Programming, Low-level Programming, Functional Programming, Operating Systems, Algorithms & Data Structures, Graph Theory, Automata Theory.
-    - Mathematics: Linear Algebra, Mathematical Analysis, Calculus, Probability, Topology, Optimisation.
+    - Mathematics: Linear Algebra, Calculus, Probability, Topology, Optimisation.
 
 ### 💻 Technical Skills
 
