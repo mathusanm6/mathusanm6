@@ -19,7 +19,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Advanced: Python, C, Java, Swift, OCaml, HTML, CSS
   - Intermediate: Javascript, SQL, JSON, YAML, Bash
   - Learning: Rust, C++
-- **Libraries & Tools:** NeoVim, Visual Studio Code, Xcode, Warp, REST API, Linux, Databases, Figma, Django, React, Next.js, NumPy, Pytorch, SwiftUI, UIKit, Gradle, Dune, Git, Docker, GitHub CI/CD, AWS, ZSH.
+- **Libraries & Tools:** NeoVim, Visual Studio Code, Xcode, Warp, REST API, Linux, Databases, Figma, Django, React, Next.js, NumPy, PyTorch, SwiftUI, UIKit, Gradle, Dune, Git, Docker, GitHub CI/CD, AWS, ZSH.
 
 ### 🌟 Projects
 
