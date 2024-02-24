@@ -6,11 +6,11 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 
 ### 📚 Education
 
-- **Dual BSc in Computer Science & Mathematics** (Sep 2021 - Aug 2024)
+- **Double BSc in Computer Science & Mathematics** (Sep 2021 - Aug 2024)
   - **Institution:** Université Paris Cité
-  - **Focus:** Blending in-depth education in Computer Science and Mathematics.
+  - **Focus:** Pursuing a prestigious double degree, combining Computer Science and Mathematics education.
   - **Relevant Coursework:**
-    - Computer Science: Object-Oriented Programming, Low-level Programming, Functional Programming, Operating Systems, Algorithms & Data Structures, Graph Theory, Automata Theory.
+    - Computer Science: Object-Oriented Programming in Java, Low-level Programming in C, Functional Programming in OCaml, Operating Systems, Algorithms & Data Structures, Graph Theory, Automata Theory.
     - Mathematics: Linear Algebra, Calculus, Probability, Topology, Optimisation.
 
 ### 💻 Technical Skills
@@ -19,28 +19,30 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Advanced: Python, C, Java, Swift, OCaml, HTML, CSS
   - Intermediate: Javascript, SQL, JSON, YAML, Bash
   - Learning: Rust, C++
-- **Libraries & Tools:** NeoVim, Visual Studio Code, Xcode, Warp, REST API, Linux, Databases, Figma, Django, React, Next.js, NumPy, PyTorch, SwiftUI, UIKit, Gradle, Dune, Git, Docker, GitHub CI/CD, AWS, ZSH.
+- **Libraries & Tools:** PyTorch, MySQL, Django, React, Next.js, NumPy, SwiftUI, UIKit, ZSH, Git, Docker, GitHub CI/CD, AWS, NeoVim, Visual Studio Code, Xcode, Warp, Linux, Gradle, Dune, Figma.
 
 ### 🌟 Projects
 
 - **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
-  - Collaborated in a team for an ML-based Automatic Speech Recognition project.
-  - Achievements: 30% operational efficiency increase, 25% response latency reduction.
+  - Worked under the guidance of a researcher-professor over three months.
+  - Implemented Whisper ML model for Automatic Speech Recognition (ASR), resulting in a 30% increase in operational efficiency and a 25% reduction in response latency, while enhancing system reliability.
+  - Reduced processing time for voice recognition by 84% by integrating an optimised Whisper model instead of the base model.
 
 - **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Nov 2023 - Present)
-  - Led a team to develop a Linux-optimized shell emulator using C.
-  - Achievements: Streamlined code structure by 75%, improved workflow efficiency by 25%.
+  - Led a team to design and develop a Linux-optimised shell emulator using C, meeting a critical milestone in just 2 weeks.
+  - Leveraged a 75% improvement in both manageability and scalability by restructuring and grouping related C files.
+  - Improved development workflow by 25% by implementing GitHub Actions for Continuous Integration (CI), enhancing code integration and testing efficiency.
+  - Accelerated deployment processes by 20% by leveraging Docker for Continuous Deployment (CD), ensuring rapid and reliable software delivery.
 
 - **[Movie Recommendation System](https://github.com/mathusanMe/Movie-Recommendation-System)** (Feb 2024)
   - Developed a movie recommendation system utilizing the KNN classifier.
-  - Achievements: Delved extensively into Machine Learning with Python.
 
 ### 🌐 Additional Skills
 
-- **Certification:** Professional Certificate in Computer Science from Harvard University.
-- **Languages:** English (Fluent), French, Tamil (Native).
-- **Cultural Background:** Live in France, raised in India, born in Sri Lanka. French Citizen.
-- **Interests:** [Competitive Programming](https://github.com/mathusanMe/LeetCode), Machine Learning, Distributed Systems, Abstract Mathematics, Fitness.
+- **Professional Certification:** in Computer Science from Harvard University (CS50).
+- **Multilingual:** English (Fluent), French, Tamil (Native).
+- **Multicultural:** Live in France, raised in India, born in Sri Lanka. French Citizen.
+- **Interests:** [Competitive Programming](https://github.com/mathusanMe/LeetCode), Machine Learning, Distributed Systems, Abstract Mathematics, Game development.
 
 ---
 
