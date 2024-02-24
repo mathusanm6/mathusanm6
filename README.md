@@ -24,18 +24,18 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 ### 🌟 Projects
 
 - **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
-  - Worked under the guidance of a researcher-professor over three months.
-  - Implemented Whisper ML model for Automatic Speech Recognition (ASR), resulting in a 30% increase in operational efficiency and a 25% reduction in response latency, while enhancing system reliability.
-  - Reduced processing time for voice recognition by 84% by integrating an optimised Whisper model instead of the base model.
+  - Worked **under the guidance of a researcher-professor over three months**.
+  - Implemented **Whisper ML model** for **Automatic Speech Recognition (ASR)**, resulting in a **30% increase in operational efficiency** and a **25% reduction in response latency**, while enhancing system reliability.
+  - **Reduced processing time** for voice recognition by **84%** by integrating an optimised Whisper model instead of the base model.
 
 - **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Nov 2023 - Present)
-  - Led a team to design and develop a Linux-optimised shell emulator using C, meeting a critical milestone in just 2 weeks.
-  - Leveraged a 75% improvement in both manageability and scalability by restructuring and grouping related C files.
-  - Improved development workflow by 25% by implementing GitHub Actions for Continuous Integration (CI), enhancing code integration and testing efficiency.
-  - Accelerated deployment processes by 20% by leveraging Docker for Continuous Deployment (CD), ensuring rapid and reliable software delivery.
+  - **Led a team** to design and develop a Linux-optimised shell emulator using C, meeting a critical milestone in just 2 weeks.
+  - Leveraged a **75% improvement in both manageability and scalability** by restructuring and grouping related C files.
+  - **Improved development workflow by 25%** by implementing GitHub Actions for Continuous Integration (CI), enhancing code integration and testing efficiency.
+  - **Accelerated deployment processes by 20%** by leveraging Docker for Continuous Deployment (CD), ensuring rapid and reliable software delivery.
 
 - **[Movie Recommendation System](https://github.com/mathusanMe/Movie-Recommendation-System)** (Feb 2024)
-  - Developed a movie recommendation system utilizing the KNN classifier.
+  - Developed a **movie recommendation system** utilizing the KNN classifier.
 
 ### 🌐 Additional Skills
 
