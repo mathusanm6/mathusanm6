@@ -10,16 +10,16 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - **Institution:** Université Paris Cité
   - **Focus:** Pursuing a prestigious double degree, combining Computer Science and Mathematics education.
   - **Relevant Coursework:**
-    - Computer Science: Object-Oriented Programming in Java, Low-level Programming in C, Functional Programming in OCaml, Operating Systems, Algorithms & Data Structures, Graph Theory, Automata Theory.
-    - Mathematics: Linear Algebra, Calculus, Probability, Topology, Optimisation.
+    - Computer Science: Object-Oriented Programming in Java, Low-level Programming in C, Functional Programming in OCaml, Operating Systems, Network Programming in C, Algorithms & Data Structures, Graph Theory, Automata Theory, Databases, Front-end Development.
+    - Mathematics: Algebra, Calculus, Probability, Mathematical Logic and Set Theory.
 
 ### 💻 Technical Skills
 
 - **Programming Languages:**
-  - Advanced: Python, C, Java, Swift, OCaml, HTML, CSS
-  - Intermediate: Javascript, SQL, JSON, YAML, Bash
+  - Advanced: Python, C, Java, Swift, OCaml, HTML, CSS, SQL
+  - Intermediate: Javascript, JSON, YAML, Bash
   - Learning: Rust, C++
-- **Libraries & Tools:** PyTorch, MySQL, Django, React, Next.js, NumPy, SwiftUI, UIKit, ZSH, Git, Docker, GitHub CI/CD, AWS, NeoVim, Visual Studio Code, Xcode, Warp, Linux, Gradle, Dune, Figma.
+- **Libraries & Tools:** PyTorch, PostgreSQL, Django, React, Next.js, NumPy, SwiftUI, UIKit, ZSH, Git, Docker, GitHub CI/CD, AWS, NeoVim, Visual Studio Code, Xcode, Warp, Linux, Gradle, Dune, Figma.
 
 ### 🌟 Projects
 
