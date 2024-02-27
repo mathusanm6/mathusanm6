@@ -35,7 +35,8 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - **Accelerated deployment processes by 20%** by leveraging Docker for Continuous Deployment (CD), ensuring rapid and reliable software delivery.
 
 - **[Movie Recommendation System](https://github.com/mathusanMe/Movie-Recommendation-System)** (Feb 2024)
-  - Developed a **movie recommendation system** utilizing the KNN classifier.
+  - Developed a **movie recommendation system** utilizing user-item matrix and the KNN classifier.
+  - Gained insights into recommender systems's implementation using Python
 
 ### 🌐 Additional Skills
 
