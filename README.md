@@ -4,23 +4,6 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
 
 ---
 
-### 📚 Education
-
-- **Double BSc in Computer Science & Mathematics** (Sep 2021 - Aug 2024)
-  - **Institution:** Université Paris Cité
-  - **Focus:** Pursuing a prestigious double degree, combining Computer Science and Mathematics education.
-  - **Relevant Coursework:**
-    - Computer Science: Object-Oriented Programming in Java, Low-level Programming in C, Functional Programming in OCaml, Operating Systems, Network Programming in C, Algorithms & Data Structures, Graph Theory, Automata Theory, Databases, Full-stack Development.
-    - Mathematics: Algebra, Calculus, Probability, Mathematical Logic and Set Theory.
-
-### 💻 Technical Skills
-
-- **Programming Languages:**
-  - Advanced: Python, C, Java, Swift, OCaml, HTML, CSS, SQL
-  - Intermediate: Javascript, JSON, YAML, Bash
-  - Learning: Rust, C++
-- **Libraries & Tools:** PyTorch, PostgreSQL, Django, React, Next.js, Node.js, Express.js, Embedded Javascript, NumPy, SwiftUI, UIKit, ZSH, Git, Docker, GitHub CI/CD, AWS, NeoVim, Visual Studio Code, Xcode, Warp, Linux, Gradle, Dune, Figma.
-
 ### 🌟 Projects
 
 - **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
@@ -39,10 +22,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Gained insights into recommender systems's implementation using Python
 
 ### 🌐 Additional Skills
-
-- **Professional Certification** in Computer Science from Harvard University (CS50).
 - **Multilingual:** English (Fluent), French, Tamil (Native).
-- **Multicultural:** Live in France, raised in India, born in Sri Lanka. French Citizen.
 - **Interests:** [Competitive Programming](https://github.com/mathusanMe/LeetCode), Machine Learning, Distributed Systems, Abstract Mathematics, Game development.
 
 ---
