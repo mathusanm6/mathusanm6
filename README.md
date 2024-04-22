@@ -18,9 +18,9 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - **Accelerated deployment processes by 20%** by leveraging Docker for Continuous Deployment (CD), ensuring rapid and reliable software delivery.
  
 - **[Blur-Image](https://github.com/mathusanm6/Blur-Image)** (Feb 2023 - Present)
-  - Worked **under the supervision of a mathematics researcher-professor over three months** for a "research" project.
-  - Implemented **Richardson-Lucy deconvolution algorithm** to sharpen image previously blurred using a known kernel.
-  - Implemented **Blind Richardson-Lucy deconvolution algorithm** to sharpen image blurred organically or with unknown kernel.
+  - Worked **under the supervision of a researcher-professor in mathematics over three months** as part of a research project.
+  - Implemented **Richardson-Lucy deconvolution algorithm** to sharpen images previously blurred by a predetermined kernel.
+  - Implemented **Blind Richardson-Lucy deconvolution algorithm** to sharpen image previously blurred by an organic blur or an unknown kernel.
 
 - **[Movie Recommendation System](https://github.com/mathusanMe/Movie-Recommendation-System)** (Feb 2024)
   - Developed a **movie recommendation system** utilizing user-item matrix and the KNN classifier.
