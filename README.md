@@ -11,7 +11,7 @@ I'm a passionate Computer Science & Mathematics student at Université Paris Cit
   - Implemented **Whisper ML model** for **Automatic Speech Recognition (ASR)**, resulting in a **30% increase in operational efficiency** and a **25% reduction in response latency**, while enhancing system reliability.
   - **Reduced processing time** for voice recognition by **84%** by integrating an optimised Whisper model instead of the base model.
 
-- **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Nov 2023 - Present)
+- **[Advanced Job Control Shell Emulator](https://github.com/mathusanMe/Job-Control-Shell-Emulator)** (Nov 2023 - Jan 2024)
   - **Led a team** to design and develop a Linux-optimised shell emulator using C, meeting a critical milestone in just 2 weeks.
   - Leveraged a **75% improvement in both manageability and scalability** by restructuring and grouping related C files.
   - **Improved development workflow by 25%** by implementing GitHub Actions for Continuous Integration (CI), enhancing code integration and testing efficiency.
