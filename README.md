@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Mathusan
 
-I'm a passionate Computer Science & Mathematics student at Université Paris Cité, exploring the intersection of technology and math to solve complex problems and innovate in the tech space.
+I'm a Software Engineer apprentice at Google and a MSc student in Data Science at Université Paris-Saclay, excited about using technology to solve meaningful problems and continuously learn along the way.
 
 ---
 
