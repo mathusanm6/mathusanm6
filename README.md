@@ -6,7 +6,7 @@ I'm a Software Engineer apprentice at Google and a MSc student in Data Science a
 
 ### 🌟 Projects
 
-- **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Feb 2023 - April 2023)
+- **[Amaze Voice Lab](https://github.com/mathusanMe/Amaze-Voice-Lab)** (Jan 2023 - May 2023)
   - Worked **under the guidance of a researcher-professor over three months**.
   - Implemented **Whisper ML model** for Automatic Speech Recognition **(ASR)**, resulting in a **30% increase** in **operational efficiency** and a **25% reduction** in **response latency**, while enhancing system reliability.
   - **Reduced processing time** for voice recognition by **84%** by integrating an optimised Whisper model instead of the base model.
