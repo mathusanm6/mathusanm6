@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Mathusan
 
-I'm a Software Engineer apprentice at Google and a MSc student in Data Science at Université Paris-Saclay, excited about using technology to solve meaningful problems and continuously learn along the way.
+I'm a Software Engineer at Google and have an MSc in Data Science from Université Paris-Saclay, excited about using technology to solve meaningful problems and continuously learn along the way.
 
 ---
 
